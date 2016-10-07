@@ -4,7 +4,7 @@ public class TestMaven {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("assddds");
+		System.out.println("assdsdSJHDLhfffsd");
 	}
 
 }
